@@ -1,0 +1,10 @@
+name: router
+home: https://github.com/deis/router
+version: <Will be populated by the ci before publishing the chart>
+description: Edge router for Deis Workflow.
+maintainers:
+  - name: Deis Team
+    email: engineering@deis.com
+details: |-
+  Workflow is an open source PaaS that makes it easy to deploy and manage applications on your own
+  servers. Workflow builds on Kubernetes to provide a lightweight, Heroku-inspired workflow.
